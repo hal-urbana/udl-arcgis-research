@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Data files
+data/
+*.csv
+*.json
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+
+# Coverage
+.htmlcov/
+.coverage
+
+# MyPy
+.mypy_cache/
+
+# TypeScript/JavaScript
+node_modules/
+
+# Docker
+docker-compose.override.yml
+
+# Local overrides
+*.local
+
+# Database
+database/
+*.db
+*.sqlite
